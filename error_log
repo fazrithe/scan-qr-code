@@ -1,0 +1,15 @@
+[06-Sep-2022 07:11:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tianlio1/public_html/info/search-result.php on line 9
+[06-Sep-2022 07:12:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tianlio1/public_html/info/search-result.php on line 86
+[06-Sep-2022 07:12:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tianlio1/public_html/info/search-result.php on line 86
+[06-Sep-2022 07:13:28 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tianlio1_newTL'@'localhost' to database 'tianlio1_db_inventory' in /home/tianlio1/public_html/info/search-result.php on line 9
+[06-Sep-2022 07:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tianlio1/public_html/info/search-result.php on line 87
+[06-Sep-2022 07:17:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tianlio1/public_html/info/search-result.php on line 87
+[06-Sep-2022 07:17:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tianlio1/public_html/info/search-result.php on line 89
+[06-Sep-2022 07:17:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tianlio1/public_html/info/search-result.php on line 87
+[06-Sep-2022 07:17:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tianlio1/public_html/info/search-result.php on line 87
+[06-Sep-2022 07:18:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tianlio1/public_html/info/search-result.php on line 87
+[06-Sep-2022 10:28:20 UTC] PHP Notice:  Undefined index: cabang in /home/tianlio1/public_html/info/search-result.php on line 103
+[07-Sep-2022 00:25:38 UTC] PHP Notice:  Undefined index: cabang in /home/tianlio1/public_html/info/search-result.php on line 103
+[07-Sep-2022 07:33:32 UTC] PHP Notice:  Undefined index: cabang in /home/tianlio1/public_html/info/search-result.php on line 116
+[08-Sep-2022 13:32:45 UTC] PHP Notice:  Undefined index: cabang in /home/tianlio1/public_html/info/search-result.php on line 117
+[10-Sep-2022 05:15:29 UTC] PHP Notice:  Undefined index: cabang in /home/tianlio1/public_html/info/search-result.php on line 117
